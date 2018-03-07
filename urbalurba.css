@@ -1,0 +1,392 @@
+.navbar-static-top .logo img {
+    height: 52px;
+    margin-top: -6px;
+}
+
+.masthead .nav > li > a, .masthead a {
+    color: #ddddd;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 14px;
+    letter-spacing: 1.5px;
+    text-transform: capitalize;
+}
+
+
+.body {
+  -moz-font-feature-settings: "kern" 1;
+  -moz-osx-font-smoothing: grayscale;
+  -ms-font-feature-settings: "kern" 1;
+  -webkit-font-feature-settings: "kern" 1;
+  -webkit-font-smoothing: antialiased;
+  background-color: #ffffff;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-feature-settings: "kern" 1;
+  font-size: 16px;
+  line-height: 1.35em;
+  text-rendering: geometricPrecision;
+}
+
+html body {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 1em;
+}
+.hero-text {
+    color: #ffffff;
+    font-size: 3.5em;
+}
+
+
+li.dataset-item .dataset-heading a {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    text-transform: none;
+    color: rgb(40,139,228);
+    font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #6699cc;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+    line-height: 1.3;
+    text-transform: none;
+}
+
+.H1 {
+	font-size: 40px;
+	color: #66cccc
+}
+
+.H2 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+	font-size: 30px;
+	color: #993333
+}
+
+.H3 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: lightgrey
+	font-size: 24px;
+}
+
+.p {
+       font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: black;
+	font-size: 11px;
+}
+
+.search-form h2 {
+    font-size: 18px;
+    line-height: 1.3;
+    color: #993333;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+
+.a {
+    color: #c14531;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    text-decoration: none;
+}
+
+.heading-explanation {
+    display: block;
+    font-style: normal;
+    font-size: 22px;
+    line-height: normal;
+    margin-bottom: 30px;
+}
+
+.nav-item>a, .nav-aside li a {
+    color: #091f2f;
+    font-size: 14px;
+    line-height: 20px;
+    margin: -7px -25px;
+    padding: 7px 25px;
+}
+
+.main-navigation .main-navigation-title {
+    background: url(http://www.husoe.no/themes/husoe/urba_u.svg) no-repeat center #fff;
+    background-size: 71px 87px;
+    margin: 0;
+    padding: 112px;
+    text-align: center;
+}
+
+[role=main].hero {
+  background: url("http://www.husoe.no/themes/husoe/background_ur.png");  background-color: transparent;
+  background-size: cover;
+}
+
+footer.site-footer {
+    background: url(http://www.husoe.no/themes/husoe/urba_u_i.svg) no-repeat 1.75em center #689aca;
+    padding: 0.5em 0 0 6em;
+    color: #fff;
+    background-size: 54px 90px;
+    background-position-y: 28px;
+}
+
+.media-item {
+  color: #288BE4;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 20px;
+  color: lightgrey;
+  text-transform: none;
+  font-weight: normal;
+}
+
+site-footer, .site-footer a, .site-footer label, .site-footer small {
+    background-color: transparent;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+.accordion-group {
+	background-color: lightgrey;
+}
+
+.accordion-heading a {
+  color: #8d99ae;
+}
+
+.search-form .search-input.search-giant input {
+  color: #000000;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 20px;
+  border: 3px solid #cccccc;
+  line-height: normal;
+  padding: 10px;
+}	
+
+.accordion-heading {
+  background-color: #ccccc;
+  border-bottom: 0;
+  color: #fff;
+  font-size: 16px;
+  position: relative;
+  margin: 0;
+  padding: 9px 21px 9px 12px;
+}
+
+}
+.module.module-narrow .module-heading {
+  background-color: #ccccc;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  margin: 0;
+}
+
+.module.module-narrow.module-shallow h2 {
+    background-color: #ccccc;
+    color: #fff;
+    font-size: 16px;
+    margin: 0;
+    padding: 9px 21px 9px 12px;
+    position: relative;
+}   
+
+article.module .module-content .table-striped tbody tr:nth-child(even) th {
+  background-color: #ddddd;
+  color: #fff;
+  padding: 10px;
+}
+
+.homepage .search-form .search-input.search-giant input {
+    border: 5px solid #ddddd;
+}
+
+.homepage .search-form .search-input.search-giant input {
+  border: 5px solid #ccccc;
+}
+
+.module.module-narrow.social .module-heading {
+    background-color: #78b9e8;
+    color: #fff;
+}
+
+.module.module-narrow.module-shallow h2 {
+    background-color: #ccccc;
+    color: #fff;
+    font-size: 16px;
+    margin: 0;
+    padding: 9px 21px 9px 12px;
+    position: relative;
+}
+
+.primary .nav.nav-tabs li a {
+    margin: 0 3px;
+    background-color: #78b9e8;
+}
+.primary .nav.nav-tabs li a:hover {
+    margin: 0 3px;
+    background-color: lightgrey;
+    color:black
+}
+
+.module.module-narrow.module-shallow h2 {
+    background-color: #78b9e8;
+    color: #fff;
+    font-size: 16px;
+    margin: 0;
+    padding: 9px 21px 9px 12px;
+    position: relative;
+}
+
+.accordion-heading {
+    background-color: #78b9e8;
+    border-bottom: 0;
+    color: #fff;
+    font-size: 16px;
+    position: relative;
+    margin: 0;
+    padding: 9px 21px 9px 12px;
+}
+
+.table-striped tbody>tr:nth-child(odd)>th {
+    background-color: #78b9e8;
+    color: #ffffff;
+    padding: 10px;
+}
+
+article.module .module-content .table-striped tbody tr:nth-child(even) th {
+    background-color: lightgrey;
+    color: #fff;
+    padding: 10px;
+}
+
+.homepage .search-form .search-input.search-giant input {
+    border: 5px solid lightgrey;
+    opacity: 0.8;
+}
+
+.showcase-container .heading, .main-browse .heading, .main-updates .heading {
+    border-bottom: 5px solid #ab0505;
+}
+
+footer {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+}
+
+li.dataset-item .dataset-heading a {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+    text-transform: none;
+    color: rgb(40,139,228);
+    font-size: 22px;
+}
+
+.input, textarea, select {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.media-grid {
+    background: rgba(255,255,255,0.15) none;
+    border: none;
+}
+.media-item strong, .dataset-list .dataset-heading, .dataset-list .package-item-extra {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-style: normal;
+}
+
+ul.media-grid.masonry {
+    margin-left: 0;
+	margin-right: 50px;
+	margin-top: 20px;
+}
+
+
+.hero-text-description.secondary-heading {
+  line-height: 1.35em;
+  -webkit-font-smoothing: antialiased;
+  color: #fff;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-style: normal;
+  font-size: 22px;
+}
+
+.media-grid.masonry .media-heading {
+  color: rgb(40, 139, 228);
+  display: block;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-style: normal;
+  font-size: 20px;
+  text-transform: none;
+}
+ 
+ .media-heading {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-style: normal;
+  text-transform: none;
+}
+
+.media-item strong
+.dataset-list .dataset-heading,
+.dataset-list .package-item-extra {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-style: normal;
+}
+
+.media-item h3 {
+  color: #288BE4;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  text-transform: none;
+  font-weight: normal;
+}
+
+.search-form .control-order-by select {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+input, textarea, select {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.dataset-details a, .nav-item a, .tags a {
+  text-transform: none;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.browse-group-title {
+  display: block;
+  color: rgb(40,139,228);
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-style: normal;
+  font-size: 25px;
+}
+
+.dataset-details a, .nav-item a, .tags a {
+    text-transform: none;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+header .nav-trigger {
+    background-color: #993333;
+    color: #fff;
+}
+
+label.nav-trigger:after {
+  content: "";
+}
+
+.dataset-details a, .nav-item a, .tags a {
+    text-transform: none;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+li.dataset-item .dataset-heading a {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif text-transform: none;
+    color: #999999;
+    font-size: 22px;
+}
+
+.btn-primary, .btn-success, .btn-success:hover, .btn-success:active {
+    background-color: #993333;
+    border: 1px solid #993333;
+    color: #ffffff;
+    text-shadow: none;
+}
+
+.media-item.organization-item-list .media-image {
+    width: 126px;
+    height: auto;
+}
